@@ -1,6 +1,6 @@
 # David Chong Senior Seminar
-## University of Minnesota Morris
-## Spring 2019
+University of Minnesota Morris <br>
+Spring 2019
 
 My senior seminar is focused on the internet of things (IoT) and its possible applications to public health.
 I will present my topic on April, 20th 2019.
@@ -17,4 +17,4 @@ Talk Outline and Slides
 First Draft
 Slides
 Nearly Final Draft
-Complete Paper  
+Complete Paper
